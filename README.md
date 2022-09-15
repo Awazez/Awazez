@@ -77,14 +77,6 @@
 <br/>  
 
 
-
-
-## Listening to on spotify
-<div align="center">
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=martin.aubeut&cover_image=true&theme=default)  
-</div>
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Awazez&&style=flat-square" align="center" />
 </div>  
