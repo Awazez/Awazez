@@ -77,15 +77,12 @@
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
 
 
-## Recent Blog Posts  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=martin.aubeut&cover_image=true&theme=default)  
-
+## Listening to on spotify
+<div align="center">
+!(https://spotify-github-profile.vercel.app/api/view?uid=martin.aubeut&cover_image=true&theme=default)  
+</div>
 <br/>  
 
 <div align="center">
