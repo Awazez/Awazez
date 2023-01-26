@@ -1,4 +1,4 @@
-### <div align="center">I'm Martin, a Vue JS Front-end developer🚀 </div>  
+### <div align="center">I'm Martin, a React Front-end developer🚀 </div>  
   
 
 - 🔭 I’m currently working on Vélorution's website  
